@@ -132,11 +132,11 @@ Angular 支持大多数常用浏览器，包括下列[版本](https://v13.angula
 
 ## 文档
 
-[文档地址 Github](https://herohql521.github.io/ng-zorro-admin-doc)
+[文档地址 Github](https://herohql.github.io/ng-zorro-admin-doc)
 
 ## 后端
 
-[项目地址](https://github.com/Logistic98/yoyo-admin-lite)
+[项目地址 Github](https://github.com/Logistic98/yoyo-admin-lite) 
 
 基于Springboot + Angular 实现的通用管理系统后端框架，内部整合了常见的中间件框架和常用的工具类，有基于Vuepress实现的配套在线技术文档。
 
