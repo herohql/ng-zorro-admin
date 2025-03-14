@@ -1,0 +1,18 @@
+{
+    "/api": {
+      "target": "http://10.200.0.113:8010",
+      "secure": true
+    },
+    "/auth": {
+      "target": "http://10.200.0.113:8010",
+      "secure": true
+    },
+    "/uploads": {
+      "target": "http://10.200.0.113:8010",
+      "secure": true
+    },
+    "/logout": {
+      "target": "http://10.200.0.113:8010",
+      "secure": true
+    }
+  }
